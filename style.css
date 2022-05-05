@@ -1,0 +1,17 @@
+.box1
+{
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1
+{
+    height: 100vh;
+    background-color: #b4dfe0;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
